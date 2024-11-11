@@ -24,7 +24,7 @@ Unfortunately, this is quite common. I listed some possible fixes [in this docum
 
 ### Q4: You keep mentioning your resources page. Where can I find it?
 
-**A:** It's on my website at <http://codingheroes.io/resources>. You can subscribe for updates 😉
+**A:** It's on my website at <http://jonas.io/resources>. You can subscribe for updates 😉
 
 ### Q5: What VSCode theme are you using?
 
@@ -56,7 +56,7 @@ Unfortunately, this is quite common. I listed some possible fixes [in this docum
 
 ### Q12: I love your courses and want to get updates on new courses. How?
 
-**A:** First, you can subscribe to my email list [at my website](http://codingheroes.io/resources). Plus, I make important announcements on twitter [@jonasschmedtman](https://twitter.com/jonasschmedtman), so you should definitely follow me there 🔥
+**A:** First, you can subscribe to my email list [at my website](http://jonas.io/resources). Plus, I make important announcements on twitter [@jonasschmedtman](https://twitter.com/jonasschmedtman), so you should definitely follow me there 🔥
 
 ### Q13: How do I get my certificate of completion?
 
